@@ -1,0 +1,4 @@
+2025-08-05 13:54:03,381 - ace - WARNING - List of alphas too short, single concurrent simulations will be used instead of multisimulations
+2025-08-05 13:54:12,147 - ace - ERROR - Simulation failed. {'id': '2cvf3y6hi4Yo9aUUFJ7oBJJ', 'type': 'REGULAR', 'status': 'ERROR', 'message': 'Attempted to use inaccessible or unknown operator "ts_stddev"', 'location': {'line': 1, 'start': 5, 'end': 25, 'property': 'regular'}}
+2025-08-05 13:54:18,824 - ace - ERROR - Simulation failed. {'id': '17CRqvbPq51v8HHTrgEKZod', 'type': 'REGULAR', 'status': 'ERROR', 'message': 'Attempted to use inaccessible or unknown operator "ts_argmax"', 'location': {'line': 1, 'start': 0, 'end': 19, 'property': 'regular'}}
+2025-08-05 13:54:25,404 - ace - ERROR - Simulation failed. {'id': '2P1wYC3dh5i29qJn9uWEuit', 'type': 'REGULAR', 'status': 'ERROR', 'message': 'Attempted to use inaccessible or unknown operator "ts_min"', 'location': {'line': 1, 'start': 0, 'end': 15, 'property': 'regular'}}
